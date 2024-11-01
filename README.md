@@ -1,0 +1,1 @@
+# buletin_2_go
